@@ -21,7 +21,7 @@ export default function Navbar() {
       <ul>
         <li>
           <Link href="/">
-            <button className="btn-logo">BLOGGY</button>
+            <button className="btn-logo">bitblog</button>
           </Link>
         </li>
 
